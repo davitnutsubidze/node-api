@@ -1,0 +1,15 @@
+http://localhost:3000/posts
+Accept: application/json
+
+###
+POST http://localhost:3000/posts
+Accept: application/json
+
+###
+
+POST http://localhost:80/api/item
+Accept: application/json
+
+###
+
+###
